@@ -1,0 +1,20 @@
+.odds {
+    background-color: rgba(255, 0, 0, 0.5);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#two {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.adjust-font-size {
+    font-size: 24px;
+}
+
+#four {
+    background-color: hsla(120, 100%, 50%, 0.5);
+    font-weight: bold;
+}
+
+/* For styles that are the same use class selectors, for styles that are unique use ID slectors. Examples are Elements 3 and 4 use same font-size so they can share the same class. */
